@@ -94,6 +94,3 @@ Using Python, the notebook implements the end-to-end process with **data preproc
 - [XGBoost Library](https://xgboost.readthedocs.io/)  
 - [Data Version Control (DVC)](https://dvc.org/)  
 
----
-
-📊 **Final Model & Reports:** Available in the `/models` and `/notebooks` folders.
